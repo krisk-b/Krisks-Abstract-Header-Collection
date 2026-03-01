@@ -21,5 +21,5 @@ Documentation is provided directly within the top comment block of each header f
 This project is dedicated to the public domain under the **Unlicense**. See the [LICENSE](LICENSE) file for more details.
 
 ## KAHC std headers
-- **kahc_c_types.h**: Standardized, fixed-width type definitions, atomics, and type helper macros for C.
+- **kahc_c_types.h**: v1.0: Standardized, fixed-width type definitions, atomics, and type helper macros for C.
 
