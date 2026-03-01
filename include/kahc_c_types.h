@@ -39,6 +39,10 @@
 //  Define #define KAHC_C_TYPES_IMPLEMENTATION in *ONE* file to use this
 //  header. Only define *ONE* of the bit types.
 //
+//  Dependencies
+// ==============
+//  This file only depends on standard C libraries.
+//
 //  Usage
 // =======
 //    
